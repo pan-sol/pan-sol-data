@@ -6,7 +6,7 @@
 - [SollycM82_v1.1.0 gene annotation](http://labshare.cshl.edu/shares/schatzlab/www-data/RagTag/M82/SollycM82_genes_v1.1.0.gff3.gz)
 - [SollycM82_v1.1.0 transcript sequences](http://labshare.cshl.edu/shares/schatzlab/www-data/RagTag/M82/SollycM82_genes_v1.1.0.transcripts.fasta.gz)
 - [SollycM82_v1.1.0 coding sequences](http://labshare.cshl.edu/shares/schatzlab/www-data/RagTag/M82/SollycM82_genes_v1.1.0.CDS.fasta.gz)
-- [SollycM82_v1.1.0 protein sequences](http://labshare.cshl.edu/shares/schatzlab/www-data/RagTag/M82/SollycSM82_genes_v1.1.0.proteins.fasta.gz)
+- [SollycM82_v1.1.0 protein sequences](http://labshare.cshl.edu/shares/schatzlab/www-data/RagTag/M82/SollycM82_genes_v1.1.0.proteins.fasta.gz)
 
 ### Sweet-100
 
