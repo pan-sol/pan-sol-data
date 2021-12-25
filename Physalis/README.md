@@ -1,1 +1,1 @@
-Genomic data resources, such as genome assemblies and annotations, from the Physalis genomes. The data is organized by species.
+Genomic data resources, such as genome assemblies and annotations, for Physalis. The data is organized by species.
